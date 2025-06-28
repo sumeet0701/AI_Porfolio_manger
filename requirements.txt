@@ -1,0 +1,45 @@
+## basic packages
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+## database packages
+sqlalchemy
+sqlalchemy-utils
+asyncpg
+psycopg2-binary
+## ai packages
+openai
+groq
+
+## langchain based complete packages
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langgraph
+langchain-groq
+langchain-google-community
+langchain-google-genai
+langchain-google-vertexai
+langchain-mongodb	
+langchain-postgres
+langgraph-supervisor 
+langchain-tavily
+
+##validation packages
+pydantic
+
+##frontend packages
+streamlit
+streamlit-aggrid
+streamlit-chat
+streamlit-lottie
+## logging packages
+loguru
+## testing packages
+pytest
+pytest-asyncio
+pytest-cov
+## other packages
